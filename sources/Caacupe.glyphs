@@ -29026,7 +29026,7 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "Copyright 2014-2026 The Caacupe Project Authors (https://github.com/googlefonts/caacupe)";
+value = "Copyright 2014-2026 The Caacupe One Project Authors (https://github.com/googlefonts/caacupe)";
 }
 );
 },
@@ -29044,11 +29044,11 @@ key = familyNames;
 values = (
 {
 language = ENG;
-value = Caacupe;
+value = "Caacupe One";
 },
 {
 language = ESP;
-value = Caacupe;
+value = "Caacupe One";
 }
 );
 },
