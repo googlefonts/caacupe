@@ -564,31 +564,35 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 960;
 },
 {
 name = typoDescender;
-value = -250;
+value = -340;
 },
 {
 name = typoLineGap;
 value = 20;
 },
 {
-name = winAscent;
-value = 1000;
-},
-{
-name = winDescent;
-value = 0;
-},
-{
 name = hheaAscender;
-value = 750;
+value = 960;
 },
 {
 name = hheaDescender;
-value = -250;
+value = -340;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 844;
+},
+{
+name = winDescent;
+value = 215;
 },
 {
 name = strikeoutPosition;
@@ -27355,7 +27359,7 @@ unicode = 31;
 {
 color = 4;
 glyphname = Gtilde;
-lastChange = "2026-07-01 12:32:24 +0000";
+lastChange = "2026-07-01 12:48:28 +0000";
 layers = (
 {
 layerId = m01;
@@ -27392,7 +27396,7 @@ note = G.tilde;
 {
 color = 4;
 glyphname = gtilde;
-lastChange = "2026-07-01 12:32:24 +0000";
+lastChange = "2026-07-01 12:48:16 +0000";
 layers = (
 {
 layerId = m01;
