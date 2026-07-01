@@ -1,6 +1,10 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
+DisplayStrings = (
+"\036",
+"not/.notdef def"
+);
 classes = (
 {
 automatic = 1;
@@ -19237,10 +19241,56 @@ unicode = 8201;
 },
 {
 glyphname = .notdef;
-lastChange = "2026-04-14 15:25:22 +0000";
+lastChange = "2026-07-01 12:56:13 +0000";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(209,-114,o),
+(305,-114,cs),
+(431,-114,l),
+(429,-56,o),
+(423,98,o),
+(423,297,cs),
+(423,393,o),
+(427,613,o),
+(429,646,c),
+(395,647,o),
+(228,650,o),
+(159,650,cs),
+(33,650,l),
+(35,592,o),
+(41,438,o),
+(41,319,cs),
+(41,113,o),
+(37,-77,o),
+(35,-110,c),
+(39,-110,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(158,78,o),
+(157,285,o),
+(157,321,cs),
+(157,365,o),
+(158,461,o),
+(159,539,c),
+(305,536,l),
+(306,458,o),
+(307,331,o),
+(307,295,cs),
+(307,185,o),
+(306,76,o),
+(305,-3,c),
+(159,0,l)
+);
+}
+);
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -19257,9 +19307,10 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 168;
+width = 461;
 }
 );
+metricLeft = L;
 note = .notdef;
 },
 {
@@ -27114,7 +27165,7 @@ unicode = 699;
 {
 color = 4;
 glyphname = uni001E;
-lastChange = "2026-07-01 12:32:24 +0000";
+lastChange = "2026-07-01 12:53:37 +0000";
 layers = (
 {
 layerId = m01;
